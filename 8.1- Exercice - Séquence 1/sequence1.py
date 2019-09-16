@@ -4,3 +4,9 @@
 
 a = 11
 b = 42
+n = a
+a = b
+b = a
+
+print("la valeur a = ", a)
+print("la valeur b = ", n)
